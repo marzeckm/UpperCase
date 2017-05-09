@@ -2,7 +2,7 @@ package de.marzeckm;
 
 import java.util.*;
 /**
- * Buchstaben werden groß ausgegeben
+ * Programm liest String ein. Der String wird Uppercase ausgegeben.
  *
  */
 public class App 
