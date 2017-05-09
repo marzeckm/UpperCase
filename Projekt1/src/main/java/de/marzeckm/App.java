@@ -8,6 +8,7 @@ import java.util.*;
 public class App 
 {
 	public static void main(String[] args){
+		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		String text = s.next();
 		System.out.println(text.toUpperCase());
